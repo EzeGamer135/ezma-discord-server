@@ -1,2 +1,2 @@
 # EzMa-Discord-Server
-Servidor Oficial de Discord en Español
+Servidor Oficial de Discord en Español.
