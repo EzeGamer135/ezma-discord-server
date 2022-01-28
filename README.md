@@ -16,10 +16,3 @@ Servidor Oficial de Discord en Español, creado el miércoles 26 de enero de 202
 **Moderadores:**
 - EzeGamer135#6991
 - MaXi#3323
-
-**Pendiente:**
-- [ ] Nombre oficial decidido
-- [ ] Imagen oficial decidida
-- [ ] Emojis creados
-- [ ] Objetivo de miembros: 10 (2/10)
-- [ ] Primera mejora de servidor alcanzada
