@@ -8,8 +8,8 @@ Servidor Oficial de Discord en Español, creado el miércoles 26 de enero de 202
 - NQN
 
 **Emojis:**
-- Animados: 1
-- Estáticos: 1
+- Animados: 3
+- Estáticos: 14
 
 **Plan:** Plan 1 (0/2 mejoras)
 
