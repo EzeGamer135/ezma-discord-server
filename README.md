@@ -13,7 +13,7 @@ Servidor Oficial de Discord en Español, creado el jueves 26 de enero de 2022.
 - MaXi#3323
 
 Pendiente por completar:
-- [] Nombre oficial decidido
-- [] Imagen oficial decidida
-- [] Primera mejora de servidor alcanzada
-- [] Objetivo de miembros: 10 (2/10)
+- [ ] Nombre oficial decidido
+- [ ] Imagen oficial decidida
+- [ ] Primera mejora de servidor alcanzada
+- [ ] Objetivo de miembros: 10 (2/10)
