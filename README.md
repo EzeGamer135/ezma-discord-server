@@ -12,7 +12,7 @@ Servidor Oficial de Discord en Español, creado el jueves 26 de enero de 2022.
 - EzeGamer135#6991
 - MaXi#3323
 
-Pendiente por completar:
+Pendiente:
 - [ ] Nombre oficial decidido
 - [ ] Imagen oficial decidida
 - [ ] Primera mejora de servidor alcanzada
