@@ -7,7 +7,9 @@ Servidor Oficial de Discord en Español, creado el jueves 26 de enero de 2022.
 - Zira
 - NQN
 
-**Emojis:** 2
+**Emojis:**
+- Animados: 1
+- Estáticos: 1
 
 **Plan:** Plan 1 (0/2 mejoras)
 
@@ -20,3 +22,4 @@ Pendiente:
 - [ ] Imagen oficial decidida
 - [ ] Primera mejora de servidor alcanzada
 - [ ] Objetivo de miembros: 10 (2/10)
+- [ ] Emojis creados
