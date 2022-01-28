@@ -5,7 +5,9 @@ Servidor Oficial de Discord en Español, creado el jueves 26 de enero de 2022.
 **Bots:**
 - Koya
 - Zira
-- NQN (Muy pronto)
+- NQN
+
+**Emojis:** 2
 
 **Plan:** Plan 1 (0/2 mejoras)
 
