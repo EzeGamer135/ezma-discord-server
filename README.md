@@ -18,8 +18,8 @@ Servidor Oficial de Discord en Español, creado el miércoles 26 de enero de 202
 - MaXi#3323
 
 **Pendiente:**
-- [x] Nombre oficial decidido
+- [ ] Nombre oficial decidido
 - [ ] Imagen oficial decidida
-- [x] Emojis creados
+- [ ] Emojis creados
 - [ ] Objetivo de miembros: 10 (2/10)
 - [ ] Primera mejora de servidor alcanzada
