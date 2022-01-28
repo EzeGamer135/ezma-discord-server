@@ -1,4 +1,4 @@
-![Servidor oficial](https://user-images.githubusercontent.com/73393487/151437151-a277da9a-b45d-4d97-b50d-d1b280a88fa9.png)
+![Servidor oficial (2)](https://user-images.githubusercontent.com/73393487/151456192-de8737e0-6b8d-40f5-9d62-9fe788f08586.png)
 # Ezma-Discord-Server
 Servidor Oficial de Discord en Español, creado el jueves 26 de enero de 2022.
 
