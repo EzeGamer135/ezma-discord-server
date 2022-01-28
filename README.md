@@ -1,6 +1,6 @@
 ![Servidor oficial (2)](https://user-images.githubusercontent.com/73393487/151456192-de8737e0-6b8d-40f5-9d62-9fe788f08586.png)
 # Ezma-Discord-Server
-Servidor Oficial de Discord en Español, creado el jueves 26 de enero de 2022.
+Servidor Oficial de Discord en Español, creado el miércoles 26 de enero de 2022 a las 23:00.
 
 **Bots:**
 - Koya
@@ -17,7 +17,7 @@ Servidor Oficial de Discord en Español, creado el jueves 26 de enero de 2022.
 - EzeGamer135#6991
 - MaXi#3323
 
-Pendiente:
+**Pendiente:**
 - [ ] Nombre oficial decidido
 - [ ] Imagen oficial decidida
 - [ ] Primera mejora de servidor alcanzada
