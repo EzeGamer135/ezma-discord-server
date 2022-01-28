@@ -20,6 +20,6 @@ Servidor Oficial de Discord en Español, creado el miércoles 26 de enero de 202
 **Pendiente:**
 - [ ] Nombre oficial decidido
 - [ ] Imagen oficial decidida
-- [ ] Primera mejora de servidor alcanzada
-- [ ] Objetivo de miembros: 10 (2/10)
 - [ ] Emojis creados
+- [ ] Objetivo de miembros: 10 (2/10)
+- [ ] Primera mejora de servidor alcanzada
