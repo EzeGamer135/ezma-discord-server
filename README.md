@@ -6,10 +6,11 @@ Servidor Oficial de Discord en Español, creado el miércoles 26 de enero de 202
 - Koya
 - Zira
 - NQN
+- Zapier
 
 **Emojis:**
+- Estáticos: 25
 - Animados: 3
-- Estáticos: 14
 
 **Plan:** Plan 1 (0/2 mejoras)
 
