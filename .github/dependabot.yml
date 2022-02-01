@@ -5,7 +5,7 @@
 
 version: 2
 updates:
-  - package-ecosystem: "allow" # See documentation for possible values
+  - package-ecosystem: "gomod" # See documentation for possible values
     directory: "/.github" # Location of package manifests
     schedule:
       interval: "daily"
